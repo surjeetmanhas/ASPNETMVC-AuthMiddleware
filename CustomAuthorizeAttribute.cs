@@ -166,10 +166,10 @@ namespace BCG.PSG.WebAPIService
             //    OIDCTokenValidationParameters validationParam = new OIDCTokenValidationParameters()
             //    {
             //        Token = authorizationHeaderValue.Replace("Bearer", "").Trim(),
-            //        ClientId = "0oawkyvxk2ZeumAPU0h7",//WebConfigurationManager.AppSettings["okta:ClientId"],
-            //        ClientSecret = "fhnycGNHGmTD5VHgoMuOZzEUPGH74WMcdcFI8XQv",//WebConfigurationManager.AppSettings["okta:ClientSecret"],
+            //        ClientId = "XXXXX",//WebConfigurationManager.AppSettings["okta:ClientId"],
+            //        ClientSecret = "xxxxxx",//WebConfigurationManager.AppSettings["okta:ClientSecret"],
             //        OIDCIssuer = "",//WebConfigurationManager.AppSettings["okta:OIDC_Issuer"],
-            //        OAuthIssuer = "https://bcgdev.oktapreview.com/oauth2/auswz1ramoF7z1W840h7/",//WebConfigurationManager.AppSettings["okta:OAuth_Issuer"],
+            //        OAuthIssuer = "https://xxxx.oktapreview.com/oauth2/auswz1ramoF7z1W840h7/",//WebConfigurationManager.AppSettings["okta:OAuth_Issuer"],
             //        TokenTypeHint = "access_token"
             //    };
             //    OIDCClient client = new OIDCClient();
